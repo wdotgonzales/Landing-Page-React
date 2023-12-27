@@ -4,6 +4,9 @@
 
 In the project directory, you can run:
 
+### `npm install`
+Install npm first before running the app
+
 ### `npm start`
 
 Runs the app in the development mode.\
