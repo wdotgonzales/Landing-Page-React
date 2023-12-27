@@ -1,8 +1,6 @@
 # Landing Page using React & Tailwind CSS
 
-## Available Scripts
-
-In the project directory, you can run:
+Run the following commands in the terminal:
 
 ### `npm install`
 Install npm first before running the app
