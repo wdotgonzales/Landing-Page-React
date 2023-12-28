@@ -2,6 +2,9 @@
 
 Run the following commands in the terminal:
 
+### `git clone https://github.com/wdotgonzales/Landing-Page-React.git`
+Clone this repository into your machine
+
 ### `npm install`
 Install npm first before running the app
 
